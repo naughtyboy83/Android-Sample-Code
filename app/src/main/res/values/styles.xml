@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     This file contains resource definitions for style.  A style is
+     a collection of named values that can be applied as a group.  Here,
+     we are using a style to define a common set of XML attributes that
+     will be used in multiple tags.
+-->
+<resources>
+
+    <color name="transparent">#80000000 </color>
+    <color name="red">#FF0000</color>
+
+    <style name="ButtonBar">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/header_background</item>
+    </style>
+
+    <style name="Background">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingTop">17dp</item>
+        <item name="android:paddingLeft">17dp</item>
+        <item name="android:paddingRight">17dp</item>
+        
+    </style>
+
+</resources>

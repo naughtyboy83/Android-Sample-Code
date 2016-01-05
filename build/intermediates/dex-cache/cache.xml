@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mszajek\Documents\Android\TestApi\app\build\intermediates\exploded-aar\TestApi\itraff\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aebd337fee4a1603d0faafe9459349059f24990b">
+        <dex dex="C:\Users\mszajek\Documents\Android\TestApi\app\build\intermediates\pre-dexed\debug\classes-dd38f45729b6e712233aeff64006cbc86856a187.jar" />
+    </item>
+
+</items>

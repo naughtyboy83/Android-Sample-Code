@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="info_title">Recognize.im Sample App</string>
+    <string name="info_1">Take a photo and see image recognition in action</string>
+    <string name="itraff_api">Recognize.im</string>
+    <string name="hello">Recognize.im API</string>
+    <string name="app_name">Recognize.im API</string>
+    <string name="make_photo">Take a photo</string>
+    <string name="send">Send</string>
+    <string name="error">Error: </string>
+    <string name="app_error">Application error</string>
+    <string name="back">Back</string>
+    <string name="client_id">Your Client Id</string>
+    <string name="client_api_key">Your API Key</string>
+    <string name="response">Server Response:</string>
+    <string name="wait_message">Please wait…</string>
+    <string name="not_connected">No internet connection!</string>
+    <string name="show_all_results">Show all results</string>
+    <string name="show_all_instances">Show multiple instances</string>
+    <string name="show_result">Show image with frames</string>
+</resources>

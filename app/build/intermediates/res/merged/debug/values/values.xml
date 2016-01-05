@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/mszajek/Documents/Android/TestApi/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="modeNames">
+        <item>Single mode</item>
+        <item>Multiple mode</item>
+    </string-array>
+    <string-array name="modeValues">
+        <item>single</item>
+        <item>multi</item>
+    </string-array>
+    <!-- From: file:/C:/Users/mszajek/Documents/Android/TestApi/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <color name="red">#FF0000</color>
+    <color name="transparent">#80000000 </color>
+    <!-- From: file:/C:/Users/mszajek/Documents/Android/TestApi/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_error">Application error</string>
+    <string name="app_name">Recognize.im API</string>
+    <string name="back">Back</string>
+    <string name="client_api_key">Your API Key</string>
+    <string name="client_id">Your Client Id</string>
+    <string name="error">Error: </string>
+    <string name="hello">Recognize.im API</string>
+    <string name="info_1">Take a photo and see image recognition in action</string>
+    <string name="info_title">Recognize.im Sample App</string>
+    <string name="itraff_api">Recognize.im</string>
+    <string name="make_photo">Take a photo</string>
+    <string name="not_connected">No internet connection!</string>
+    <string name="response">Server Response:</string>
+    <string name="send">Send</string>
+    <string name="show_all_instances">Show multiple instances</string>
+    <string name="show_all_results">Show all results</string>
+    <string name="show_result">Show image with frames</string>
+    <string name="wait_message">Please wait…</string>
+    <!-- From: file:/C:/Users/mszajek/Documents/Android/TestApi/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Background">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingTop">17dp</item>
+        <item name="android:paddingLeft">17dp</item>
+        <item name="android:paddingRight">17dp</item>
+        
+    </style>
+    <style name="ButtonBar">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/header_background</item>
+    </style>
+</resources>
